@@ -1,2 +1,2 @@
 catalog:
-  greeting: "Hello from Catalog Service | Env: PROD!"
+  greeting: "Hello from default Catalog Service!"
