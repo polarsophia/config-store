@@ -1,0 +1,2 @@
+catalog:
+  greeting: "Hello from Catalog Service | Env: DEV!"
